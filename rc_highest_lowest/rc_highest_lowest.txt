@@ -1,3 +1,4 @@
+```pinescript
 library("rc_highest_lowest")
 
 export f_highest(int start, int end) =>
